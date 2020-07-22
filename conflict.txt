@@ -1,3 +1,3 @@
 Solve conflict when merge using git command
 
-Hello world.
+Good morning world.
