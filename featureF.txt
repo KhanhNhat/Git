@@ -1,0 +1,7 @@
+Start to build feature F
+
+Define business problem
+
+Solve problem
+
+Checked and completed fixing problem.
