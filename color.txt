@@ -1,5 +1,6 @@
 Colors
 maroon
+orange
 yellow
 light green
 blue
