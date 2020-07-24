@@ -1,4 +1,4 @@
 Colors
-FireBrick
+Salmon
 White
-Black
+Grey
