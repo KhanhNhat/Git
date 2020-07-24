@@ -1,13 +1,14 @@
 Colors
 maroon
 orange
-yellow
+mustard seed
 light green
 blue
 violet
-dark brown
+dark chocolate
 black
 gray
 white
 silver
 gold
+cream
