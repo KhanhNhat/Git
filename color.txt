@@ -1,4 +1,12 @@
 Colors
-Salmon
-White
-Grey
+maroon
+yellow
+light green
+blue
+violet
+dark brown
+black
+gray
+white
+silver
+gold
