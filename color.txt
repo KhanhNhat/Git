@@ -1,13 +1,14 @@
 Colors
 maroon
 orange
-yellow
+mustard yellow
 light green
 blue
 violet
-dark brown
+chocolate dream bar
 black
 gray
 white
 silver
 gold
+ivor
